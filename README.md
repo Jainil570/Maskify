@@ -1,5 +1,5 @@
 # Maskify - Background Remover with Deep Learning 
-** [video_link](https://screenrec.com/share/Du5BtCbwXR)
+** [video_link](https://screenrec.com/share/Du5BtCbwXR) **
 
 **Maskify** is a Streamlit-based web application that allows users to remove backgrounds from images using a U-Net-based deep learning segmentation model.
 
