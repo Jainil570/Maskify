@@ -4,8 +4,8 @@
 
 ##  Features
 
-- Upload an image and instantly remove the background
-- Model trained on human segmentation dataset
+- Upload an image and instantly remove the background (Works on humans for now)
+- Model trained on human segmentation dataset [https://github.com/VikramShenoy97/Human-Segmentation-Dataset/tree/master]
 - Transparent PNG output download
 - Clean, responsive UI with real-time results
 
